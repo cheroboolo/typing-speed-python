@@ -1,17 +1,17 @@
-#Typing Speed in Python
+# Typing Speed in Python
 
     *Check Your Typing Speed in 60 Seconds
 
-###Requirements
+### Requirements
 
-#####TKinter:
+##### TKinter:
 
 [tkinter docs](https://docs.python.org/3/library/tkinter.html)
 
 ##### Random Module
 [Random Module docs](https://docs.python.org/3/library/random.html)
 
-###Usage
+### Usage
 
 * On first keyboard diggit, your time start counting
 * You have 60 seconds to type and follow message from the screen.
@@ -28,7 +28,7 @@
     
 ### Ideas for future improvements
 
-#####This script as any other have always space for improvements.
+##### This script as any other have always space for improvements.
     
 * larger messages for 60 seconds typing 
 * Navigate for someone who quick typing, to early stop, if we typed message before timer ends
