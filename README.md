@@ -34,6 +34,6 @@
 * Navigate for someone who quick typing, to early stop, if we typed message before timer ends
 * Design improvements and many more.
 
-![Example](C:/Users/Neo/Desktop/typing-speed-python/gui-design.jpg?raw=true "Title")
+![Example](https://github.com/cheroboolo/image-watermaking-python/blob/master/gui-design.jpg?raw=true "Title")
 
-![Example](C:/Users/Neo/Desktop/typing-speed-python/gui2.jpg?raw=true "Title")
+![Example](https://github.com/cheroboolo/image-watermaking-python/blob/master/gui2.jpg?raw=true "Title")
